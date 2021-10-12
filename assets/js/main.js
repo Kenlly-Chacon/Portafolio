@@ -244,4 +244,8 @@
     }
   });
 
+  const typed = new Typed('.typed',{
+    strings: ['Programador','Desarrollador Web']
+  });
+  
 })()
