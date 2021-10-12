@@ -248,7 +248,7 @@
     strings: ['<class="soy">Programador','<class="soy">Desarrollador Web'],
 
     //stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
-    typeSpeed: 120, // Velocidad en mlisegundos para poner una letra,
+    typeSpeed: 100, // Velocidad en mlisegundos para poner una letra,
     startDelay: 300, // Tiempo de retraso en iniciar la animacion. Aplica tambien cuando termina y vuelve a iniciar,
     backSpeed: 60, // Velocidad en milisegundos para borrrar una letra,
     //smartBackspace: true, // Eliminar solamente las palabras que sean nuevas en una cadena de texto.
