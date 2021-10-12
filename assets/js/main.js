@@ -248,12 +248,12 @@
     strings: ['<class="soy">Programador','<class="soy">Desarrollador Web'],
 
     //stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
-    typeSpeed: 100, // Velocidad en mlisegundos para poner una letra,
+    typeSpeed: 120, // Velocidad en mlisegundos para poner una letra,
     startDelay: 300, // Tiempo de retraso en iniciar la animacion. Aplica tambien cuando termina y vuelve a iniciar,
-    backSpeed: 70, // Velocidad en milisegundos para borrrar una letra,
+    backSpeed: 60, // Velocidad en milisegundos para borrrar una letra,
     //smartBackspace: true, // Eliminar solamente las palabras que sean nuevas en una cadena de texto.
     shuffle: false, // Alterar el orden en el que escribe las palabras.
-    backDelay: 2600, // Tiempo de espera despues de que termina de escribir una palabra.
+    backDelay: 2800, // Tiempo de espera despues de que termina de escribir una palabra.
     loop: true, // Repetir el array de strings
     loopCount: false, // Cantidad de veces a repetir el array.  false = infinite
     showCursor: true, // Mostrar cursor palpitanto
