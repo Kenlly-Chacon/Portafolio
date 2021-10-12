@@ -245,7 +245,7 @@
   });
 
   const typed = new Typed('.typed',{
-    strings: ['Programador','Desarrollador Web']
+    strings: ['<class="soy">Programador','<class="soy">Desarrollador Web']
   });
   
 })()
